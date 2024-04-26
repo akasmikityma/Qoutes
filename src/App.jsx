@@ -1,7 +1,7 @@
 import React from 'react'
 import {BrowserRouter,Routes,Route} from 'react-router-dom';
 import Home from './Pages/Home';
-import Post from './Components/Post';
+import Post from './Pages/Post';
 export default function App() {
   return (
     <BrowserRouter>
